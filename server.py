@@ -112,9 +112,8 @@ def get_entity(entity):
 @app.route("/clear", methods=['POST','GET'])
 def clear():
     '''Clear the world out!'''
-    tempWorld = myWorld.world()
     myWorld.clear()
-    return tempWorld, 200
+    return myWorld.world(), 200
 
 @app.route("/listener/<entity>", methods=['POST','PUT'])
 def add_listener(entity):
