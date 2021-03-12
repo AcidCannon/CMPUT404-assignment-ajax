@@ -15,4 +15,4 @@ All follow-up changes made by Zijian Xi are also LICENSE'D under the Apache 2 li
 
 Reference
 ========================
-* Observer Design Pattern: https://github.com/uofa-cmput404/cmput404-slides/tree/master/examples/ObserverExampleAJAX, 2019, Author: Abram Hindle, Hazel Victoria Campbell  
+* [Observer Design Pattern](https://github.com/uofa-cmput404/cmput404-slides/tree/master/examples/ObserverExampleAJAX), 2019, Author: Abram Hindle, Hazel Victoria Campbell  
